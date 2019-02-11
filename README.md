@@ -1,2 +1,2 @@
-# week4
-Dynamic Programming2
+# BOJ CODE
+FOR GH
